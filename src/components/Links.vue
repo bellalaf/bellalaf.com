@@ -4,6 +4,7 @@ import GithubIcon from './icons/IconGithub.vue'
 import LinkedinIcon from './icons/IconLinkedIn.vue'
 import GpnIcon from './icons/IconGpn.vue'
 import ContactIcon from './icons/IconContact.vue'
+import MediumIcon from './icons/IconMedium.vue'
 
 </script>
 
@@ -26,6 +27,16 @@ import ContactIcon from './icons/IconContact.vue'
 
     Go on, have a stalk.
     <a href="https://www.linkedin.com/in/bella-lafrenais/" target="_blank" rel="noopener">in/bella-lafrenais</a>
+  </WelcomeItem>
+
+  <WelcomeItem>
+    <template #icon>
+      <MediumIcon />
+    </template>
+    <template #heading>Medium</template>
+
+    My deep dark thoughts on Reactive Programming await...
+    <a href="https://medium.com/@bella.lafrenais" target="_blank" rel="noopener">medium.com/@bella.lafrenais</a>
   </WelcomeItem>
 
   <WelcomeItem>
