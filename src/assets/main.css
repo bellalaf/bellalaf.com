@@ -9,15 +9,16 @@
 }
 
 a,
-.green {
+.purple {
   text-decoration: none;
-  color: hsla(160, 100%, 37%, 1);
+  color: #9800fe;
   transition: 0.4s;
 }
 
 @media (hover: hover) {
   a:hover {
-    background-color: hsla(160, 100%, 37%, 0.2);
+    background-color: #0e0b17;
+    color: #cc79fc;
   }
 }
 
