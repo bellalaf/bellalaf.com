@@ -11,7 +11,9 @@ import MediumIcon from './icons/IconMedium.vue'
 <template>
   <WelcomeItem>
     <template #icon>
-      <GithubIcon />
+      <a href="https://github.com/bellalaf" target="_blank" rel="noopener">
+        <GithubIcon />
+      </a>
     </template>
     <template #heading>Github</template>
 
@@ -21,7 +23,9 @@ import MediumIcon from './icons/IconMedium.vue'
 
   <WelcomeItem>
     <template #icon>
-      <LinkedinIcon />
+      <a href="https://www.linkedin.com/in/bella-lafrenais/" target="_blank" rel="noopener">
+        <LinkedinIcon />
+      </a>
     </template>
     <template #heading>LinkedIn</template>
 
@@ -31,7 +35,9 @@ import MediumIcon from './icons/IconMedium.vue'
 
   <WelcomeItem>
     <template #icon>
-      <MediumIcon />
+      <a href="https://medium.com/@bella.lafrenais" target="_blank" rel="noopener">
+        <MediumIcon />
+      </a>
     </template>
     <template #heading>Medium</template>
 
