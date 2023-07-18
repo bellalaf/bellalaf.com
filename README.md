@@ -1,35 +1,23 @@
-# bellalaf-site
+# personal site
 
-This template should help get you started developing with Vue 3 in Vite.
+I didn't want to pay Squarespace, and I figured it was time to play around with a frontend application, so here we are! Go to [bellalaf.com](https://www.bellalaf.com/) to see the result.
 
-## Recommended IDE Setup
+Stack: Vue JS framework, Vite build, Vercel deployment.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
+*******
+Project Setup
 ```sh
 npm install
 ```
-
-### Compile and Hot-Reload for Development
-
+Compile and Hot-Reload for Development
 ```sh
 npm run dev
 ```
-
-### Compile and Minify for Production
-
+Compile and Minify for Production
 ```sh
 npm run build
 ```
-
-### Lint with [ESLint](https://eslint.org/)
-
+Lint with [ESLint](https://eslint.org/)
 ```sh
 npm run lint
 ```

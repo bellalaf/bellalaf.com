@@ -1,5 +1,5 @@
 <script setup>
-import TheWelcome from '../components/Links.vue'
+import TheWelcome from '../components/LinksSection.vue'
 </script>
 
 <template>
