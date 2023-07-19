@@ -4,7 +4,7 @@ import About from '../components/AboutSection.vue'
 
 <template>
   <div class="wrapper">
-    <About></About>
+    <About/>
   </div>
 </template>
 
