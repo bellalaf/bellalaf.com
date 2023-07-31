@@ -10,7 +10,7 @@
     </div>
     <h3>I am currently working at Reece, coding up a storm on the backend of our Next Gen POS project. I mostly work in a Java microservice world, but we also have a few Kotlin services that I am enjoying fiddling with. </h3>
     <br>
-    <h3>When I'm not in our lovely new Cremorne office; working with GPN to get gender minorities into tech; or at the local watering hole; I enjoy bouldering, reading, boardgames and the occasional triathlon.</h3>
+    <h3>When I'm not in our lovely new Cremorne office or working with GPN to get gender minorities into tech; I enjoy bouldering, reading, boardgames and the occasional triathlon.</h3>
   </div>
 </template>
 

@@ -17,7 +17,7 @@ import MediumIcon from './icons/IconMedium.vue'
     </template>
     <template #heading>Github</template>
 
-    Code, commits and chaos can be found at
+    Code can be found at
     <a href="https://github.com/bellalaf" target="_blank" rel="noopener">github.com/bellalaf</a>
   </WelcomeItem>
 
@@ -41,7 +41,7 @@ import MediumIcon from './icons/IconMedium.vue'
     </template>
     <template #heading>Medium</template>
 
-    My deep dark thoughts on Reactive Programming await...
+    Musings await...
     <a href="https://medium.com/@bella.lafrenais" target="_blank" rel="noopener">medium.com/@bella.lafrenais</a>
   </WelcomeItem>
 
