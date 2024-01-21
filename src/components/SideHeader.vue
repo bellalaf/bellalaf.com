@@ -10,8 +10,8 @@ defineProps({
 <template>
   <div class="greetings">
     <h1 class="purple">{{ msg }}</h1>
-    <h3>Software Engineer*  <a href="https://www.reecetech.com.au/" target="_blank" rel="noopener">@reecetech</a></h3>
-    <h3>Melbourne Node Lead <a href="https://www.girlsprogramming.network/" target="_blank" rel="noopener">@gpn</a></h3>
+    <h3>Software Developer*  <a href="https://www.postcodelottery.co.uk/" target="_blank" rel="noopener">@postcodelottery</a></h3>
+    <h3>Aiming to make the world a slightly better place, one commit at a time.</h3>
     <h5>*backend gal only, this site is so far the extent of my frontend abilities</h5>
   </div>
 </template>

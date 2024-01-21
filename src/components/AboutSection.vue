@@ -8,9 +8,9 @@
       <br>
       <img src="../assets/headshot2023.jpeg" alt="Bella Lafrenais" width=300>
     </div>
-    <h3>I am currently working at Reece, coding up a storm on the backend of our Next Gen POS project. I mostly work in a Java microservice world, but we also have a few Kotlin services that I am enjoying fiddling with. </h3>
+    <h3>Since relocating to Edinburgh, I've been working at People's Postcode Lottery. Currently working with lots of CDK and Python lambdas. </h3>
     <br>
-    <h3>When I'm not in our lovely new Cremorne office or working with GPN to get gender minorities into tech; I enjoy bouldering, reading, boardgames and the occasional triathlon.</h3>
+    <h3>I love reading, boardgames and am determined to make my hiking boot purchase worth it - many Munros to come.</h3>
   </div>
 </template>
 
