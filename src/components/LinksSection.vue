@@ -52,7 +52,7 @@ import MediumIcon from './icons/IconMedium.vue'
     <template #heading>Contact</template>
 
     Email me at
-    <a href="bellalafrenais@gmail.com" target="_blank" rel="noopener">bellalafrenais@gmail.com</a>
+    <a href="isabellalaf98@gmail.com" target="_blank" rel="noopener">isabellalaf98@gmail.com</a>
   </WelcomeItem>
 
   <WelcomeItem>
