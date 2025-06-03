@@ -40,15 +40,6 @@ h5 {
   top: 10px;
 }
 
-a {
-  color: #2c3e50;
-}
-
-a:hover {
-  background-color: #0e0b17;
-  color: #cc79fc;
-}
-
 .greetings h1,
 .greetings h3
 .greetings h5 {
