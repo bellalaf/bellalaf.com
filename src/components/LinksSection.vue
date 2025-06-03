@@ -41,7 +41,7 @@ import MediumIcon from './icons/IconMedium.vue'
     </template>
     <template #heading>Medium</template>
 
-    Musings await...
+    A single musing awaits...
     <a href="https://medium.com/@bella.lafrenais" target="_blank" rel="noopener">medium.com/@bella.lafrenais</a>
   </WelcomeItem>
 

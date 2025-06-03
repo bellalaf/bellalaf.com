@@ -11,8 +11,8 @@ defineProps({
   <div class="greetings">
     <h1 class="purple">{{ msg }}</h1>
     <h3>Software Developer*  <a href="https://www.postcodelottery.co.uk/" target="_blank" rel="noopener">@postcodelottery</a></h3>
-    <h3>Aiming to make the world a slightly better place, one commit at a time.</h3>
-    <h5>*backend gal only, this site is so far the extent of my frontend abilities</h5>
+    <h4>Currently in Edinburgh, <b>moving back to Melbourne in October 2025</b></h4>
+    <h5>*historically a backend gal only, this site is <i>so far</i> the extent of my frontend abilities</h5>
   </div>
 </template>
 
@@ -27,6 +27,10 @@ h1 {
 
 h3 {
   font-size: 1.2rem;
+  font-family: Verdana,serif;
+}
+
+h4 {
   font-family: Verdana,serif;
 }
 
