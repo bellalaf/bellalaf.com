@@ -5,8 +5,8 @@
   <div class="greetings">
     <div class="heading">
       <h1 class="purple">About</h1>
+      <img src="../assets/hiking2025.jpg" alt="Bella Lafrenais" width="300">
       <br>
-      <img src="../assets/headshot2023.jpeg" alt="Bella Lafrenais" width=300>
     </div>
     <h3>Since relocating to Edinburgh, I've been working at People's Postcode Lottery. Currently working with lots of CDK and Python lambdas. </h3>
     <br>
