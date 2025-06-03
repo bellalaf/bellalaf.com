@@ -6,66 +6,71 @@
     <div class="heading">
       <h1 class="purple">About</h1>
       <img src="../assets/hiking2025.jpg" alt="Bella Lafrenais" width="300">
-      <br>
     </div>
-    <h3>Since relocating to Edinburgh, I've been working at People's Postcode Lottery. Currently working with lots of CDK and Python lambdas. </h3>
-    <br>
-    <h3>I love reading, boardgames and am determined to make my hiking boot purchase worth it - many Munros to come.</h3>
+    <div class="text">
+      <h4>Since relocating to Edinburgh, I've been working at People's Postcode Lottery and learning more than I ever
+        thought I would about AWS and the domain of payments. I also caught the LazyVim bug...</h4>
+      <h4>Alongside <a href="https://www.linkedin.com/in/saramdavies/" target="_blank" rel="noopener">Sara Davies</a>, I
+        co-founded a Diversity in Tech group at the lottery, and through that I've had the opportunity to work alongside
+        university students via <a href="https://edinburghhoppers.com/sponsors" target="_blank"
+          rel="noopener">Hoppers</a> and the wonderful people doing wonderful things over at <a href="https://ada.scot/"
+          target="_blank" rel="noopener">AdaScot</a>. I've been involved in organising office visits, workshops, IWD
+        celebrations and so much more.</h4>
+      <br>
+      <h4>I love reading, skiing, boardgames and, after an accidental subscription to AllTrails, hiking.</h4>
+    </div>
   </div>
 </template>
 
 <style scoped>
-  h1 {
-  font-family: Verdana,serif;
+h1 {
+  font-family: Verdana, serif;
   font-weight: 600;
   font-size: 2.9rem;
   color: #726691;
 }
 
-  h3 {
+h3 {
   font-size: 1.2rem;
-  font-family: Verdana,serif;
+  font-family: Verdana, serif;
 }
 
-  img {
-    padding: 20px;
-  }
+img {
+  padding: 10px;
+  text-align: center;
+}
 
-  h5 {
-  font-family: Verdana,serif;
+h5 {
+  font-family: Verdana, serif;
   position: relative;
   top: 10px;
 }
 
-  a {
-  color: #2c3e50;
+.greetings {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
 }
 
-  a:hover {
-  background-color: #0e0b17;
-  color: #cc79fc;
+.heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  width: 90%;
 }
 
-  .greetings {
-    display: inline-flex;
-    align-items: center;
-    flex-direction: column;
-    justify-content: center;
-    position: relative;
-}
+@media (max-width: 768px) {
   .heading {
-    display: inline-flex;
+    flex-direction: column;
     align-items: center;
-    justify-content: space-around;
-    position: relative;
-    flex-grow: 1;
+    text-align: center;
   }
 
-  @media (min-width: 1024px) {
-  .greetings h1,
-  .greetings h3,
-  .greetings h5 {
-  text-align: left;
-}
+  .heading img {
+    width: 80%;
+    max-width: 300px;
+  }
 }
 </style>
